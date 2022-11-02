@@ -19,12 +19,16 @@ Open Fusion 360 and select file and click new file
 Select sketch option and choose create sketch
 
 ### STEP-3: 
-Draw and extrude a component as per the dimensions
+1. Create the sketch using circle, line, trim operations as shown in figure
+2. Apply finish sketch 
 
-### STEP-7:
+### STEP-4:
+ Use the extrude option to convert the 2D to 3D.
+
+### STEP-5:
 Switch to drawing mode from design mode 
           
-### STEP-8:
+### STEP-6:
 1. Select the base view and position the model to project from base view 
 2. Select the projected view to generate orthographic projections
 
